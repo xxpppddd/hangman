@@ -53,7 +53,7 @@ int main() {
         cout<< "Congratulations! You win!!\n";
     }
     else {
-        cout << "You lost. The correct word is '" << secretWord <<"'.\n";
+        cout << "You lose. The correct word is '" << secretWord <<"'.\n";
     }
 }
 
